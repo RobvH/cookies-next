@@ -1,6 +1,6 @@
 {
   "name": "cookies-next",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "description": "Getting, setting and removing cookies on both client and server with next.js",
   "main": "lib/index.js",
   "type": "lib/index.d.ts",
@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/andreizanik/cookies-next#readme",
   "dependencies": {
-    "cookie": "^0.6.0",
+    "cookie": "^0.7.2",
     "@types/cookie": "^0.6.0"
   },
   "devDependencies": {
